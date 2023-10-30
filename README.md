@@ -1,7 +1,7 @@
 # Programs List
 <br>
 Original language: Portuguese
-<br>
+<hr>
 6. Faça um programa que leia o consumo de energia mensal de uma residência, calcule e exiba o valor da 
 conta seguindo os seguintes critérios: 
 - Consumo até 50kWh: taxa mínima de R$ 10,00 
